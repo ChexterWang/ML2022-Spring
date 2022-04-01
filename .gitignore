@@ -1,0 +1,17 @@
+*__MACOSX
+*.ckpt
+*.csv
+*.yml
+*.txt
+*.zip
+*model
+*out
+*log*
+
+HW02/libriphone*
+
+HW03/food11
+
+HW04/Dataset*
+
+HW05/DATA
